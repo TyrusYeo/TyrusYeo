@@ -1,5 +1,5 @@
 # Hey I'm Tyrus💫 
-🔭 Currently working on a few personal projects and building out the music industry with BeatNami.com, learning the ways of entrepreneurship, the VC and investing space. Also learning guitar and photography, and powerlifting on the side. <br>🌱 Currently learning React + Javascript and Python<br>📫 How to reach me: <a href="https://tyrusyeo.com/">Website</a> | <a href="https://twitter.com/tyrus_yeo"> Twitter </a> | <a href="https://www.linkedin.com/in/tyrus-yeo">LinkedIn </a><br>⚡ Fun fact: Come jam with me in a band! Or workout! 
+🔭 Currently building Zelta.ai, working on a few personal projects, learning the ways of entrepreneurship, the VC and investing space. Also learning guitar and photography, and powerlifting on the side. <br>🌱 Currently learning React + Javascript and Python<br>📫 How to reach me: <a href="https://tyrusyeo.com/">Website</a> | <a href="https://twitter.com/tyrus_yeo"> Twitter </a> | <a href="https://www.linkedin.com/in/tyrus-yeo">LinkedIn </a><br>⚡ Fun fact: Come jam with me in a band! Or workout! 
 
 
 # 💻 Tech Stack:
